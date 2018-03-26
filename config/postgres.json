@@ -1,7 +1,7 @@
 {
-	"user":		"msfdev",
-	"host":		"127.0.0.1",
+	"user":		"mister2tone",
+	"host":		"192.168.1.7",
 	"database":	"msf_dev_db",
-	"password":	"metasploit",
+	"password":	"12w01q25t37u",
 	"port": 5432
 }
